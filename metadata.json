@@ -1,0 +1,6 @@
+{
+  "name": "Dash Runner",
+  "description": "A rhythm side-scrolling platformer with customizable character skins, high-precision timer, audio synthesizer, and integrated community level editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
